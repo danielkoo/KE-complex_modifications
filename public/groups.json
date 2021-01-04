@@ -434,6 +434,10 @@
           "extra_description_path": "extra_descriptions/colemak_dh_ansi_layout.json.html"
         },
         {
+          "path": "json/colemak_dhm_matrix_layout.json",
+          "extra_description_path": "extra_descriptions/colemak_dhm_matrix_layout.json.html"
+        },
+        {
           "path": "json/codemak.json",
           "extra_description_path": "extra_descriptions/codemak.json.html"
         },
